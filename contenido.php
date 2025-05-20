@@ -11,7 +11,7 @@
             <a href="https://www.php.net/" class="btn btn-primary btn-lg">Explora más</a>
         </div>
         <div class="col-md-5 text-center">
-            <img src="img/php.jpg" class="img-fluid rounded shadow" alt="Tecnología y medios">
+            <img src="../img/php.jpg" class="img-fluid rounded shadow" alt="Tecnología y medios">
         </div>
     </div>
     <hr class="my-5">
